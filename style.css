@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    background-color: bisque;
+    width: 800px;
+    box-shadow: 3px 3px 3px gray;
+
+}
+
+.margin-sm{
+    margin: 0.5rem;
+}
+
+.margin-md{
+    margin: 1rem;
+}
+
+.margin-lg{
+    margin: 1.3rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.padding-sm{
+    padding: 1rem;
+}
+
+.padding-md{
+    padding: 1rem;
+}
+
+.padding-lg{
+    padding: 1.3rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-white{
+    color: white;
+}
+
+.bg-primary{
+    background-color: darkblue;
+}
+
+.bg-secondary{
+    background-color: aquamarine;
+}
